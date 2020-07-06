@@ -2,8 +2,8 @@ body, html {
   height: 100%;
   margin: 0;
 }
-#myCanvas[resize] {
+#myCanvas {
   width: 100%;
   height: 100%;
-  background: black;
+  background: url('../img/ledezma.jpg')!important;
 }
